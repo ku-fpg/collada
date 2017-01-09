@@ -1,2 +1,3 @@
 # collada
-Parser and pretty printer for the collada file format.
+
+DSL for the collada file format.
